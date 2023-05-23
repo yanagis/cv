@@ -11,3 +11,21 @@
 
 # Conference Papers (referred)
 + Hiroki Yanagisawa, "Proper Scoring Rules for Survival Analysis," to appear in ICML 2023.
++ Hiroki Yanagisawa, Kohei Miyaguchi, and Takayuki Katsuki: Hierarchical Lattice Layer for Partially Monotone Neural Networks, NeurIPS 2022
++ Akira Koseki, Italo Buleje, Prithwish Chakraborty, Elif Eyigoz, Mohamed Ghalwash, Takashi Itoh, Toshiya Iwamori, Michiharu Kudoh, Pablo Meyer Rojas, Kenney Ng, Parthasarathy Suryanarayanan, Hiroki Yanagisawa, Jianying Hu: DPM360: New Additions to Advanced Disease Progression Modeling, OHDSI Collaborator Showcase 2022
++ Akira Koseki, Reitaro Tokumasu, Prithwish Chakraborty, Mohamed Ghalwash, Toshiya Iwamori, Michiharu Kudo, Daby Sow, Hiroki Yanagisawa, Ryosuke Yanagiya, Masaki Makino, Atsushi Suzuki: Survival Models of Diabetes Complications Applied to Different Cohorts, ADA 2021.
++ Koki Hamada, Shuichi Miyazaki, and Hiroki Yanagisawa: Strategy-Proof Approximation Algorithms for the Stable Marriage Problem with Ties and Incomplete Lists, ISAAC 2019, 9:1--9:14.
++ Satoshi Hara, Takayuki Katsuki, Hiroki Yanagisawa, Takafumi Ono, Ryo Okamoto, Shigeki Takeuchi: Consistent and Efficient Nonparametric Different-Feature Selection, AISTATS 2017, 130--138.
++ Satoshi Hara, Tetsuro Morimura, Toshihiro Takahashi, Hiroki Yanagisawa, Taiji Suzuki: A Consistent Method for Graph Based Anomaly Localization, AISTATS 2015.
++ Chien-Chung Huang, Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: A Tight Approximation Bound for the Stable Marriage Problem with Restricted Ties, APPROX 2015, 361--380.
++ Fumiko Satoh, Hiroki Yanagisawa, Hitomi Takahashi, Takayuki Kushida: Total Energy Management System for Cloud Computing, IC2E 2013, 233--240.
++ Hiroki Yanagisawa, Takayuki Osogami: Improved Integer Programming Approaches for Chance-Constrained Stochastic Programming, IJCAI 2013, 2938--2944.
++ Hiroki Yanagisawa, Takayuki Osogami, Rudy Raymond: Dependable virtual machine allocation, INFOCOM 2013,  629--637.
++ Daisuke Takuma, Hiroki Yanagisawa: Faster upper bounding of intersection sizes, SIGIR 2013, 703--712.
++ Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: Improved Approximation Bounds for the Student-Project Allocation Problem with Preferences over Projects, TAMC 2011, 440--451.
++ Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: A 25/17-Approximation Algorithm for the Stable Marriage Problem with One-Sided Ties, ESA 2010, 135--146.
++ Hiroki Yanagisawa: An Offline Map Matching via Integer Programming, ICPR 2010, 4206--4209.
++ Hiroki Yanagisawa: A multi-source label-correcting algorithm for the all-pairs shortest paths problem, IPDPS 2010, 1--10.
++ Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: Approximation Algorithms for the Sex-Equal Stable Marriage Problem, WADS 2007, 201--213.
++ Magnu M. Halldorsson, Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: Randomized Approximation of the Stable Marriage Problem, COCOON 2003, 339--350.
++ Magnu M. Halldorsson, Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: Improved Approximation of the Stable Marriage Problem, ESA 2003, 266--277.
