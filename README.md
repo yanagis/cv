@@ -1,3 +1,6 @@
+# Hiroki Yanagisawa
+IBM Research - Tokyo
+
 # Journal Papers (referred)
 
 + Subhrajit Roy, Isabell Kiral, Mahtab Mirmomeni, Todd Mummert, Alan Braz, Jason Tsay, Jianbin Tang, Umar Asif, Thomas Schaffter, Mehmet Eren Ahsen, Toshiya Iwamori, Hiroki Yanagisawa, Hasan Poonawala, Piyush Madan, Yong Qin, Joseph Picone, Iyad Obeid, Bruno De Assis Marques, Stefan Maetschke, Rania Khalaf, Michal Rosen-Zvi, Gustavo Stolovitzky, Stefan Harrer, IBM Epilepsy Consortium: Evaluation of artificial intelligence systems for assisting neurologists with fast and accurate annotations of scalp electroencephalography data, *EBioMedicine*, 66:103275, 2021
@@ -13,6 +16,7 @@
 + Hiroki Yanagisawa, "Proper Scoring Rules for Survival Analysis," to appear in ICML 2023.
 + Hiroki Yanagisawa, Kohei Miyaguchi, and Takayuki Katsuki: Hierarchical Lattice Layer for Partially Monotone Neural Networks, NeurIPS 2022
 + Akira Koseki, Italo Buleje, Prithwish Chakraborty, Elif Eyigoz, Mohamed Ghalwash, Takashi Itoh, Toshiya Iwamori, Michiharu Kudoh, Pablo Meyer Rojas, Kenney Ng, Parthasarathy Suryanarayanan, Hiroki Yanagisawa, Jianying Hu: DPM360: New Additions to Advanced Disease Progression Modeling, OHDSI Collaborator Showcase 2022
++ Mohamed Ghalwash, Prithwish Chakraborty, Akira Koseki, Hiroki Yanagisawa, Toshiya Iwamori, Reitaro Tokumasu, Masaki Makino, Ryosuke Yanagiya, Atsushi Suzuki, Michiharu Kudo, Daby Sow, A comparative time-to-event analysis across health systems, AMIA Annual Symposium 2021
 + Akira Koseki, Reitaro Tokumasu, Prithwish Chakraborty, Mohamed Ghalwash, Toshiya Iwamori, Michiharu Kudo, Daby Sow, Hiroki Yanagisawa, Ryosuke Yanagiya, Masaki Makino, Atsushi Suzuki: Survival Models of Diabetes Complications Applied to Different Cohorts, ADA 2021.
 + Koki Hamada, Shuichi Miyazaki, and Hiroki Yanagisawa: Strategy-Proof Approximation Algorithms for the Stable Marriage Problem with Ties and Incomplete Lists, ISAAC 2019, 9:1--9:14.
 + Satoshi Hara, Takayuki Katsuki, Hiroki Yanagisawa, Takafumi Ono, Ryo Okamoto, Shigeki Takeuchi: Consistent and Efficient Nonparametric Different-Feature Selection, AISTATS 2017, 130--138.
@@ -29,3 +33,12 @@
 + Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: Approximation Algorithms for the Sex-Equal Stable Marriage Problem, WADS 2007, 201--213.
 + Magnu M. Halldorsson, Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: Randomized Approximation of the Stable Marriage Problem, COCOON 2003, 339--350.
 + Magnu M. Halldorsson, Kazuo Iwama, Shuichi Miyazaki, Hiroki Yanagisawa: Improved Approximation of the Stable Marriage Problem, ESA 2003, 266--277.
+
+# Book Chapter
+
++ Kenney Ng, Mohamed Ghalwash, Prithwish Chakraborty, Daby M Sow, Akira Koseki, Hiroki Yanagisawa, Michiharu Kudo: Data-Driven Disease Progression Modeling, Healthcare Information Management Systems: Cases, Strategies, and Solutions, Springer, 247–276, 2022.
++ Hiroki Yanagisawa: Stable Marriage with One-Sided Ties, Encyclopedia of Algorithms, Springer, 2068–2071, 2016.
+
+# Thesis
++ Hiroki Yanagisawa: Approximation algorithms for stable marriage problems, Ph.D. Thesis, Kyoto University, 2007
++ Hiroki Yanagisawa: Approximation algorithms for stable marriage problems, Master Thesis, Kyoto University, 2003
