@@ -1,8 +1,9 @@
 # Hiroki Yanagisawa
 
-## Professional Experience
+Email: yanagisawa_hiroki @ cyberagent.co.jp
 
-+ 2024- Cyberagent, Inc.
+## Professional Experience
++ 2024- AI Lab in Cyberagent, Inc.
 + 2003-2023 IBM Research - Tokyo
 + 2001 NTT (Summer internship)
 
@@ -23,8 +24,8 @@
 + Magnus M. Halldorsson, Kazuo Iwama, Shuichi Miyazaki, and Hiroki Yanagisawa: Randomized approximation of the stable marriage problem, *Theoretical Computer Science*, 325(3), 439--465, 2004
 
 ## Conference Papers (referred)
-+ Hiroki Yanagisawa, "Proper Scoring Rules for Survival Analysis," to appear in ICML 2023.
-+ Hiroki Yanagisawa, Kohei Miyaguchi, and Takayuki Katsuki: Hierarchical Lattice Layer for Partially Monotone Neural Networks, NeurIPS 2022
++ Hiroki Yanagisawa, [Proper Scoring Rules for Survival Analysis] (https://proceedings.mlr.press/v202/yanagisawa23a/yanagisawa23a.pdf), ICML 2023.
++ Hiroki Yanagisawa, Kohei Miyaguchi, and Takayuki Katsuki, [Hierarchical Lattice Layer for Partially Monotone Neural Networks] (https://proceedings.neurips.cc/paper_files/paper/2022/hash/47ed62021460f2e9bba7be3e74260090-Abstract-Conference.html), NeurIPS 2022
 + Akira Koseki, Italo Buleje, Prithwish Chakraborty, Elif Eyigoz, Mohamed Ghalwash, Takashi Itoh, Toshiya Iwamori, Michiharu Kudoh, Pablo Meyer Rojas, Kenney Ng, Parthasarathy Suryanarayanan, Hiroki Yanagisawa, Jianying Hu: DPM360: New Additions to Advanced Disease Progression Modeling, OHDSI Collaborator Showcase 2022
 + Mohamed Ghalwash, Prithwish Chakraborty, Akira Koseki, Hiroki Yanagisawa, Toshiya Iwamori, Reitaro Tokumasu, Masaki Makino, Ryosuke Yanagiya, Atsushi Suzuki, Michiharu Kudo, Daby Sow, A comparative time-to-event analysis across health systems, AMIA Annual Symposium 2021
 + Akira Koseki, Reitaro Tokumasu, Prithwish Chakraborty, Mohamed Ghalwash, Toshiya Iwamori, Michiharu Kudo, Daby Sow, Hiroki Yanagisawa, Ryosuke Yanagiya, Masaki Makino, Atsushi Suzuki: Survival Models of Diabetes Complications Applied to Different Cohorts, ADA 2021.
