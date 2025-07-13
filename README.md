@@ -24,6 +24,7 @@ Email: yanagisawa_hiroki<img width="20" src="https://d1q9av5b648rmv.cloudfront.n
 + Magnus M. Halldorsson, Kazuo Iwama, Shuichi Miyazaki, and Hiroki Yanagisawa: Randomized approximation of the stable marriage problem, *Theoretical Computer Science*, 325(3), 439--465, 2004
 
 ## Conference Papers (referred)
++ Hiroki Yanagisawa and Shunta Akiyama, Survival Analysis via Density Estimation, ICML 2025.
 + Hiroki Yanagisawa, [Proper Scoring Rules for Survival Analysis](https://proceedings.mlr.press/v202/yanagisawa23a/yanagisawa23a.pdf), ICML 2023.
 + Hiroki Yanagisawa, Kohei Miyaguchi, and Takayuki Katsuki, [Hierarchical Lattice Layer for Partially Monotone Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/47ed62021460f2e9bba7be3e74260090-Abstract-Conference.html), NeurIPS 2022
 + Akira Koseki, Italo Buleje, Prithwish Chakraborty, Elif Eyigoz, Mohamed Ghalwash, Takashi Itoh, Toshiya Iwamori, Michiharu Kudoh, Pablo Meyer Rojas, Kenney Ng, Parthasarathy Suryanarayanan, Hiroki Yanagisawa, Jianying Hu: DPM360: New Additions to Advanced Disease Progression Modeling, OHDSI Collaborator Showcase 2022
