@@ -3,7 +3,7 @@
 Email: yanagisawa_hiroki<img width="20" src="https://d1q9av5b648rmv.cloudfront.net/v3/1024x1024/sticker/m/white/front/6011084/1612327400-500x506.png.1.0642+0.0+0.0.jpg?h=9ecb27f45737e4c857387032059ebbdcaf2a1544&printed=true">cyberagent.co.jp
 
 ## Professional Experience
-+ 2024- AI Lab in Cyberagent, Inc.
++ 2024- AI Lab in Cyberagent
 + 2003-2023 IBM Research - Tokyo
 + 2001 NTT (Summer internship)
 
@@ -24,7 +24,7 @@ Email: yanagisawa_hiroki<img width="20" src="https://d1q9av5b648rmv.cloudfront.n
 + Magnus M. Halldorsson, Kazuo Iwama, Shuichi Miyazaki, and Hiroki Yanagisawa: Randomized approximation of the stable marriage problem, *Theoretical Computer Science*, 325(3), 439--465, 2004
 
 ## Conference Papers (referred)
-+ Hiroki Yanagisawa and Shunta Akiyama, Survival Analysis via Density Estimation, ICML 2025.
++ Hiroki Yanagisawa and Shunta Akiyama, [Survival Analysis via Density Estimation](https://icml.cc/virtual/2025/poster/43491), ICML 2025. [OpenReview](https://openreview.net/forum?id=z9SRjXPf8T)
 + Hiroki Yanagisawa, [Proper Scoring Rules for Survival Analysis](https://proceedings.mlr.press/v202/yanagisawa23a/yanagisawa23a.pdf), ICML 2023.
 + Hiroki Yanagisawa, Kohei Miyaguchi, and Takayuki Katsuki, [Hierarchical Lattice Layer for Partially Monotone Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/47ed62021460f2e9bba7be3e74260090-Abstract-Conference.html), NeurIPS 2022
 + Akira Koseki, Italo Buleje, Prithwish Chakraborty, Elif Eyigoz, Mohamed Ghalwash, Takashi Itoh, Toshiya Iwamori, Michiharu Kudoh, Pablo Meyer Rojas, Kenney Ng, Parthasarathy Suryanarayanan, Hiroki Yanagisawa, Jianying Hu: DPM360: New Additions to Advanced Disease Progression Modeling, OHDSI Collaborator Showcase 2022
